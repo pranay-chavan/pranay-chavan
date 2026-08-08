@@ -1,4 +1,6 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="220" align="right"/>
+<table>
+<tr>
+<td width="65%">
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00BFFF&center=false&vCenter=true&width=600&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
 
@@ -7,6 +9,13 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FF6FCF&lines=%F0%9F%8D%9C+Anime+binger+%7C+✏️+Sketching+when+inspired)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=6BCB77&lines=%F0%9F%8C%B1+Always+learning%2C+creating+%26+debugging)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=4D96FF&lines=%F0%9F%9A%80+Currently+building+cool+stuff)
+
+</td>
+<td width="35%" align="center" valign="middle">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="280"/>
+</td>
+</tr>
+</table>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranaychavan_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaychavan08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranaychavan_08) 
