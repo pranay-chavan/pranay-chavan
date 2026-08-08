@@ -1,7 +1,7 @@
 # Hii! I'm Pranay Chavan 👋
 — a CS student and full-stack dev who loves turning ideas into working products.
 
-<img src="https://media.tenor.com/RcvyjnoY_qEAAAAi/pokemon.gif" width="150" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="150" align="right"/>
 
 💻 Building web apps & exploring new tech stacks<br>
 🎮 Gamer at heart | ♟️ Chess enthusiast<br>
