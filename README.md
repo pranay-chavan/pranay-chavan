@@ -1,6 +1,8 @@
 # Hii! I'm Pranay Chavan 👋
 — a CS student and full-stack dev who loves turning ideas into working products.
 
+<img src="https://media.tenor.com/RcvyjnoY_qEAAAAi/pokemon.gif" width="150" align="right"/>
+
 💻 Building web apps & exploring new tech stacks<br>
 🎮 Gamer at heart | ♟️ Chess enthusiast<br>
 🍜 Anime binger | ✏️ Sketching when inspiration strikes<br>
