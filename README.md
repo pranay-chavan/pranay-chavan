@@ -1,12 +1,12 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="150" align="right"/>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&width=500&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00BFFF&center=false&vCenter=true&width=600&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
 
-![Building](https://img.shields.io/badge/💻-Building_web_apps_%26_exploring_new_tech_stacks-blueviolet?style=flat-square)
-![Gaming](https://img.shields.io/badge/🎮-Gamer_at_heart_%7C_♟️_Chess_enthusiast-orange?style=flat-square)
-![Anime](https://img.shields.io/badge/🍜-Anime_binger_%7C_✏️_Sketching_when_inspired-ff69b4?style=flat-square)
-![Learning](https://img.shields.io/badge/🌱-Always_learning%2C_creating_%26_debugging-brightgreen?style=flat-square)
-![Building2](https://img.shields.io/badge/🚀-Currently_building_cool_stuff-red?style=flat-square)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FF6B6B&lines=%F0%9F%92%BB+Building+web+apps+%26+exploring+new+tech+stacks)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FFD93D&lines=%F0%9F%8E%AE+Gamer+at+heart+%7C+♟️+Chess+enthusiast)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FF6FCF&lines=%F0%9F%8D%9C+Anime+binger+%7C+✏️+Sketching+when+inspired)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=6BCB77&lines=%F0%9F%8C%B1+Always+learning%2C+creating+%26+debugging)
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=4D96FF&lines=%F0%9F%9A%80+Currently+building+cool+stuff)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranaychavan_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaychavan08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranaychavan_08) 
