@@ -53,3 +53,7 @@
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranay-chavan&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8"/>
 
 </div>
+
+<div align="center">
+<img src="https://media1.tenor.com/m/aLhmFm-IFt4AAAAd/flying-pikachu-balloon-pikachu.gif" width="300"/>
+</div>
