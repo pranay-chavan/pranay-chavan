@@ -52,6 +52,4 @@
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranay-chavan&theme=shadow_blue&hide_border=true&layout=compact&langs_count=8"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranay-chavan&theme=shadow_blue&no-frame=true&row=1&column=7"/>
-
 </div>
