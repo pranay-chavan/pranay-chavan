@@ -1,12 +1,13 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="150" align="right"/>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00FF00&center=false&vCenter=true&width=500&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&width=500&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
 
-💻 Building web apps & exploring new tech stacks<br>
-🎮 Gamer at heart | ♟️ Chess enthusiast<br>
-🍜 Anime binger | ✏️ Sketching when inspiration strikes<br>
-🌱 Always learning, creating & debugging my way through life XD<br>
-🚀 Currently building cool stuff — check out my repos below!
+![Building](https://img.shields.io/badge/💻-Building_web_apps_%26_exploring_new_tech_stacks-blueviolet?style=flat-square)
+![Gaming](https://img.shields.io/badge/🎮-Gamer_at_heart_%7C_♟️_Chess_enthusiast-orange?style=flat-square)
+![Anime](https://img.shields.io/badge/🍜-Anime_binger_%7C_✏️_Sketching_when_inspired-ff69b4?style=flat-square)
+![Learning](https://img.shields.io/badge/🌱-Always_learning%2C_creating_%26_debugging-brightgreen?style=flat-square)
+![Building2](https://img.shields.io/badge/🚀-Currently_building_cool_stuff-red?style=flat-square)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranaychavan_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaychavan08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranaychavan_08) 
 
