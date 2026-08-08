@@ -19,13 +19,13 @@
 
 ## 🌐 Socials:
 <a href="https://instagram.com/pranaychavan_08" target="_blank">
-  <img src="https://i.pinimg.com/736x/99/26/4d/99264d4441b917087b8dc7ee46c10ba1.jpg" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50"/>
 </a>
 <a href="https://linkedin.com/in/pranaychavan08" target="_blank">
-  <img src="https://i.pinimg.com/736x/8a/15/b6/8a15b646a6856d20854c2ac22623d971.jpg" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="50" height="50"/>
 </a>
 <a href="https://x.com/pranaychavan_08" target="_blank">
-  <img src="https://i.pinimg.com/736x/f2/99/95/f29995ca30c0509053b981e6c3e5cb55.jpg" width="50" height="50"/>
+  <img src="https://img.icons8.com/fluency/96/twitterx.png" width="50" height="50"/>
 </a>
 
 # 💻 Tech Stack:
