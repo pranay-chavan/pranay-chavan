@@ -1,6 +1,11 @@
 # 💫 About Me:
-💻 Coding | 🍜 Anime | ✏️ Sketching<br>♟️ Chess | 🎮 Gaming | 🚀 Building cool stuff<br>🌱 Learning, creating & debugging my way through life XD<br>
+Hii! I'm Pranay Chavan 👋 — a CS student and full-stack dev who loves turning ideas into working products.
 
+💻 Building web apps & exploring new tech stacks<br>
+🎮 Gamer at heart | ♟️ Chess enthusiast<br>
+🍜 Anime binger | ✏️ Sketching when inspiration strikes<br>
+🌱 Always learning, creating & debugging my way through life XD<br>
+🚀 Currently building cool stuff — check out my repos below!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranaychavan_08) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranaychavan08) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pranaychavan_08) 
