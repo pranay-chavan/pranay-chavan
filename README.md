@@ -51,8 +51,6 @@
 <img src="https://github-readme-stats.shion.dev/api?username=pranay-chavan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=pranay-chavan&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=pranay-chavan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="49%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=pranay-chavan&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
 
 </div>
