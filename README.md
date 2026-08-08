@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hii! I'm Pranay Chavan 👋 — a CS student and full-stack dev who loves turning ideas into working products.
+# Hii! I'm Pranay Chavan 👋
+— a CS student and full-stack dev who loves turning ideas into working products.
 
 💻 Building web apps & exploring new tech stacks<br>
 🎮 Gamer at heart | ♟️ Chess enthusiast<br>
