@@ -9,7 +9,7 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=4D96FF&lines=%F0%9F%9A%80+Currently+building+cool+stuff)
 
 ## 🌐 Socials:
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="150" align="right"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="250" align="right"/>
 
 <a href="https://instagram.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="45" height="45"/></a>
 <br>
