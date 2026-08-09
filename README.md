@@ -56,4 +56,4 @@
 
 </div>
 
-<img src="https://media1.tenor.com/m/aLhmFm-IFt4AAAAd/flying-pikachu-balloon-pikachu.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/pikachu_flying.gif" width="100%"/>
