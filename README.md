@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=FFD700&center=false&vCenter=true&width=700&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
 
@@ -10,6 +10,7 @@
 
 </div>
 
+<div>
 ## 🌐 Socials:
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="250" align="right"/>
 
@@ -18,7 +19,7 @@
 <a href="https://linkedin.com/in/pranaychavan08" target="_blank"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="45" height="45"/></a>
 <br>
 <a href="https://x.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/twitterx.png" width="45" height="45"/></a>
-
+</div>
 ---
 <div align="left">
 
