@@ -13,7 +13,7 @@
 </div>
 
 ## 🌐 Socials:
-<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/pikachu_social.webp" width="250" align="right"/>
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/pikachu_social.webp" width="220" align="right"/>
 
 <a href="https://instagram.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="45" height="45"/></a>
 <br>
