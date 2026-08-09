@@ -1,12 +1,16 @@
-<div align="left">
+<div align="center">
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00BFFF&center=false&vCenter=true&width=600&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/line1_name.svg"/>
+<br>
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/line2_subtitle.svg"/>
 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FF6B6B&lines=%F0%9F%92%BB+Building+web+apps+%26+exploring+new+tech+stacks)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FFD93D&lines=%F0%9F%8E%AE+Gamer+at+heart+%7C+♟️+Chess+enthusiast)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=FF6FCF&lines=%F0%9F%8D%9C+Anime+binger+%7C+✏️+Sketching+when+inspired)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=6BCB77&lines=%F0%9F%8C%B1+Always+learning%2C+creating+%26+debugging)
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1&pause=100000&repeat=false&center=false&vCenter=true&width=600&height=30&color=4D96FF&lines=%F0%9F%9A%80+Currently+building+cool+stuff)
+
+</div>
 
 ## 🌐 Socials:
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="250" align="right"/>
@@ -17,11 +21,10 @@
 <br>
 <a href="https://x.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/twitterx.png" width="45" height="45"/></a>
 
-</div>
-
+---
 <div align="left">
 
-# 💻TechStack
+# 💻 Tech Stack
 
 ### 🔤 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
