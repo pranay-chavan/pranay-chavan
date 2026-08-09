@@ -13,16 +13,13 @@
 </div>
 
 ## 🌐 Socials:
-<div>
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJyYXNlazM0YmE3MGs1aGR0dm8xYmt1Z2tnamxzcHNyOWRhZnptcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/slVWEctHZKvWU/200.webp" width="250" align="right"/>
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/pikachu_social.webp" width="250" align="right"/>
 
 <a href="https://instagram.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/instagram-new.png" width="45" height="45"/></a>
 <br>
 <a href="https://linkedin.com/in/pranaychavan08" target="_blank"><img src="https://img.icons8.com/fluency/96/linkedin.png" width="45" height="45"/></a>
 <br>
 <a href="https://x.com/pranaychavan_08" target="_blank"><img src="https://img.icons8.com/fluency/96/twitterx.png" width="45" height="45"/></a>
-</div>
 ---
 <div align="left">
 
