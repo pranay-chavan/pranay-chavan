@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/pranay-chavan/pranay-chavan/main/pikachu_banner.jpg" width="100%"/>
+
 <div align="left">
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1200&color=FFD700&center=false&vCenter=true&width=700&lines=Hii!+I'm+Pranay+Chavan+%F0%9F%91%8B;CS+student+%26+full-stack+dev;Turning+ideas+into+working+products" />
